@@ -1,0 +1,21 @@
+body{ background-color: rgb(120, 126, 124)}
+
+O
+table{
+    border: 2px solid rgb(124, 64, 219);
+    font-size: 18px;
+    background-color: rgb(126, 78, 204);
+    width: 900px;
+    height: 600px;
+
+}
+table>tr>td>input{
+    font-size: 20px;
+    color:blue;
+}
+td{
+    width: 33%;
+}
+table>th{
+   
+}
